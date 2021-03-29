@@ -1,5 +1,5 @@
 # spring
 
 ## Commands:
-./gradlew build
+./gradlew build  
 ./gradlew bootRun
