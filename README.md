@@ -1,5 +1,6 @@
 # spring
 
-## Commands:
+## Commands
+./gradlew clean  
 ./gradlew build  
 ./gradlew bootRun
